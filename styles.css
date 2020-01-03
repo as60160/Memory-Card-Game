@@ -18,8 +18,8 @@ body {
 }
 
 .memory-game {
-  width: 600px;
-  height: 600px;
+  width: 560px;
+  height: 560px;
   margin: auto;
   display: flex;
   flex-wrap: wrap;
@@ -133,4 +133,13 @@ body {
 
 .none {
   display: none;
+}
+
+footer {
+  /* position: absolute;
+  bottom: 5%;
+  left: 50%;
+  transform: translateX(-50%); */
+  font-size: 14px;
+  color: #fff;
 }
